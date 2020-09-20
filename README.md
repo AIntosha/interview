@@ -9,7 +9,7 @@
 [Ссылка interview_1.ipynb](https://github.com/AIntosha/interview/blob/master/interview_1.ipynb)  
   
 ## Задание 2: Gender recognition
-Решил задача распознания пола человека по фотографии лица двумя разными способами:  
+Решил задачу распознания пола человека по фотографии лица двумя разными способами:  
 * С помощью fastai ([interview_2_fastai.ipynb](https://github.com/AIntosha/interview/blob/master/interview_2_fastai.ipynb))  
 14 эпох, accuracy **0.9824**    
 [Ссылка на скачивание готовой модели export.pkl](https://cloud.mail.ru/public/7cbL/32iu3z8re)  
